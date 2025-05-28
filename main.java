@@ -1,4 +1,4 @@
-public class main {
+public class Main {
     public static void main() {
         System.out.println("Esse é o Screen Match");
         System.out.println("Filme: Top Gun: Maverick");

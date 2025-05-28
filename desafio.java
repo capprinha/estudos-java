@@ -1,4 +1,4 @@
-public class desafio {
+public class Desafio {
     public static void main(){
         // desafio 1
         double notaUm = 8.1;
